@@ -1,6 +1,6 @@
 静态场景
 抗锯齿前
-![screenshot](./before.jpg)
+![screenshot](./before1.jpg)
 抗锯齿后
 ![screenshot](./after.jpg)
 动态场景
